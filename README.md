@@ -1,8 +1,8 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
-HFH_Python_Project
-A brief description of what this project does and who it's for
+#HFH_Python_Project
+
+
 Attendance Checker project using Python which checks the attendance of the students and reports the missing students name.Also identify unknown students in the participants list if any.
 
 ## Demo + Video
@@ -14,7 +14,6 @@ Insert gif or link to demo, or video
 ## Team Members
 1. Ashitha Nair[Embed personal github URL]
 2. Vaishnavi V[https://github.com/Vaishnavi2188/HFH_Python_Project]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
 ## Tech Stack
